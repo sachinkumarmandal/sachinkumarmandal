@@ -167,5 +167,5 @@ I focus on showing up every day, learning something new, and becoming better tha
 </p>
 
 <p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories!
+  ⭐ If you find my projects interesting, feel free to explore my repositories! if not fs ur fault
 </p>
